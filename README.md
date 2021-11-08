@@ -1,6 +1,5 @@
 # Personal-Notepad
-This is a notepad web application that can be used to create notes which can be posted, edited, and deleted.
-It was created with HTML, CSS, and JavaScript in the React.js framework. 
+Hello! My name is Vithursan Sarvalogan and I am currently a student at UWaterloo. This is a notepad web application that can be used to create notes which can be posted, edited, and deleted. It was created with HTML, CSS, and JavaScript in the React.js framework. 
 
 Steps to run project locally (terminal commands given in quotations):
 - " git clone *enter HTTPS link* "
